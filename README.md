@@ -19,7 +19,7 @@ This program was implemented using
 * Scala plugin 
 * SBT
 
-For the execution you may use spark-shell directly, but it is recommended to lunch the program via the Intellij IDE
+For the execution you may use spark-shell directly, but it is recommended to launch the program via the Intellij IDE
 
 You can source the same datasets as the once used in the benchmark [HERE](https://drive.google.com/drive/folders/1qoeabD-O3pOwUuctfors7V73vOgIRGtl?usp=sharing) (be mindful of the relative path you use during import!)
 
