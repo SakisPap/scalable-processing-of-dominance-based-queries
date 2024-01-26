@@ -36,7 +36,7 @@ for {
   benchmark.run(spark, s"datasets/one_hundred_thousand_points/dimensions_${dimension}-dist_${distribution}-points_100000.csv", K_VALUE)
 }
 ```
-You can also find the output of our own execution HERE (memory: 8G, cpu: 4)
+You can also find the output of our own execution [HERE](https://github.com/SakisPap/scalable-processing-of-dominance-based-queries/blob/main/stdout.txt) (memory: 8G, cpu: 4)
 ## Implementation Details
 
 ### Task 1: Skyline Query
